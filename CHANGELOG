@@ -1,0 +1,17 @@
+[11/04/2012]
+     Released.: 2.1.0
+     Fixed....: Converted If Statement to Case Statement
+     Fixed....: Cleaned Up Code
+     Fixed....: Removed Unnecessary Functions
+     Modified.: Cosmetics
+
+[07/10/2012]
+     Modified.: Moved Source To Git Repository
+
+[04/01/2012]
+     Released.: Version 2.0.0
+     Added....: Source Now Uses Semantic Versioning
+     Modified.: Optimized Functions
+     Modified.: Cosmetics
+     Modified.: Comments and Help Menu
+     License..: Released Under GPLv3
