@@ -13,9 +13,9 @@ func_title(){
 
   # Print Title
   echo '============================================================================'
-  echo ' ColorShell | [Version]: 2.1.0 | [Updated]: 11.04.2012'
+  echo ' ColorShell | [Version]: 2.1.1 | [Updated]: 03.05.2013'
   echo '============================================================================'
-  echo ' [By]: Mike Wright (@TheMightyShiv) | https://github.com/TheMightyShiv'
+  echo ' [By]: Michael Wright | [GitHub}: https://github.com/TheMightyShiv'
   echo '============================================================================'
   echo
 }
@@ -175,11 +175,11 @@ case ${1} in
     echo
     ;;
   *)
-    echo '[USAGE]...:'
+    echo '[Usage]...:'
     echo '            ./ColorShell.sh -u [# # ...]'
     echo '            ./ColorShell.sh [OPTION]'
     echo
-    echo '[COLORS]..:'
+    echo '[Colors]..:'
     echo '             1 = Black'
     echo '             2 = Dark Grey'
     echo '             3 = Red'
@@ -197,7 +197,7 @@ case ${1} in
     echo '            15 = Light Grey'
     echo '            16 = White'
     echo
-    echo '[OPTIONS].:'
+    echo '[Options].:'
     echo '            -u = Build Script Using Colors'
     echo '            -c = Show Color Chart'
     echo '            -v = Show Color Variables'
